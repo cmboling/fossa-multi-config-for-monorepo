@@ -1,5 +1,8 @@
 version: 3
 
+project:
+  id: github.com/cmboling/fossa-multi-config-for-monorepo/test-2
+
 paths:
   only:
     - ./test-2
