@@ -97,4 +97,3 @@ This setup ensures:
 ## 📎 Related Links
 
 - [FOSSA CLI Docs](https://docs.fossa.com/docs/fossa-cli)
-- [This repository](https://github.com/cmboling/fossa-multi-config-for-monorepo)
