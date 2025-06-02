@@ -50,7 +50,7 @@ paths:
     - ./test-2
 ```
 
-Each project is scoped to its respective subdirectory (`test-1` or `test-2`) and tracked independently in FOSSA.
+Each project is scoped to its respective subdirectory (`test-1` or `test-2`) and tracked independently in FOSSA. Keep in mind that the second configuration explicitly defines a unique project.id, which ensures it is treated as a distinct project in FOSSA. In contrast, the first configuration relies on FOSSA’s default behavior to infer the project ID from the repository’s Git metadata.
 
 ---
 
