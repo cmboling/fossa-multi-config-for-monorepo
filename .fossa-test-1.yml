@@ -2,4 +2,6 @@ version: 3
 
 paths:
   only:
-    - ./test-1
+    - ./backend
+    - ./frontend
+    - ./infrastructure
