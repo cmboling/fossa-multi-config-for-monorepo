@@ -24,3 +24,4 @@ jobs:
           fossa --version
           fossa analyze --config ./.fossa-test-1.yml --branch test-11-branch --revision test-11-revision --debug
           fossa analyze --config ./.fossa-test-2.yml --branch test-2-branch --revision test-2-revision
+          fossa test --timeout 60
